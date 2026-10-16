@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lucy",
+    "apellido": "Mewgenics",
+    "email": "lucymagiccat@yahoo.com",
+    "telefono": "27",
+    "ciudad": "The Alley"
+  },
+  {
+    "id": 2,
+    "nombre": "Magnus",
+    "apellido": "Mewgenics",
+    "email": "oraaaaaa@gmail.com",
+    "telefono": "1",
+    "ciudad": "The Alley"
+  },
+  {
+    "id": 3,
+    "nombre": "Marshmallow",
+    "apellido": "Mewgenics",
+    "email": "charmingcleric@gmail.com",
+    "telefono": "0954833133",
+    "ciudad": "The Desert"
+  },
+  {
+    "id": 4,
+    "nombre": "Alice",
+    "apellido": "Mewgenics",
+    "email": "cutiepsy@gmail.com",
+    "telefono": "09835143332",
+    "ciudad": "The Lab"
+  }
+]
